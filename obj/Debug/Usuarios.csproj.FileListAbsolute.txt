@@ -1,0 +1,26 @@
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\obj\Debug\Usuarios.csproj.AssemblyReference.cache
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\obj\Debug\Usuarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\obj\Debug\Usuarios.frminicio.resources
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\obj\Debug\Usuarios.frmusuario.resources
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.cache
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\obj\Debug\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\obj\Debug\Usuarios.pdb
+C:\Users\UserX\Documents\VS\Ejercicios C#\Actividad Desemp\Ejemplo\Tarea\Usuarios\obj\Debug\Usuarios.frmconsulta.resources
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\bin\Debug\Usuarios.exe.config
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\bin\Debug\Usuarios.exe
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\bin\Debug\Usuarios.pdb
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\obj\Debug\Usuarios.csproj.AssemblyReference.cache
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\obj\Debug\Usuarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\obj\Debug\Usuarios.frminicio.resources
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\obj\Debug\Usuarios.frmconsulta.resources
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\obj\Debug\Usuarios.frmusuario.resources
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\obj\Debug\Usuarios.Properties.Resources.resources
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\obj\Debug\Usuarios.csproj.GenerateResource.cache
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\obj\Debug\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\obj\Debug\Usuarios.exe
+C:\Users\UserX\Music\Tarea\Con Base de Datos\Usuarios\obj\Debug\Usuarios.pdb
